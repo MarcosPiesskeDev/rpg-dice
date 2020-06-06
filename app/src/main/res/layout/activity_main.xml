@@ -53,7 +53,7 @@
         android:id="@+id/textView2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Created by Marcos Vitor Piesske"
+        android:text="Created by Marcos P."
         android:textColor="@color/bBgColor"
         android:textSize="38px"
         android:textStyle="italic"
