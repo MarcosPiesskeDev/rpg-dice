@@ -269,7 +269,7 @@
         android:id="@+id/text_by"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="by MVP"
+        android:text="by MP"
         android:textColor="@color/bBgColor"
         android:textSize="38px"
         android:textStyle="italic"
